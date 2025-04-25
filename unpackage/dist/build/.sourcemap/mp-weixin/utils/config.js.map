@@ -1,0 +1,1 @@
+{"version":3,"file":"config.js","sources":["../../../../../utils/config.js"],"sourcesContent":null,"names":["baseUrl","config","env","timeout","wx","appId","enableLog","api","wxLogin"],"mappings":"aAKA,MAYMA,EAPS,4BAUAC,EAAA,CAEbC,IARiB,cAWjBF,UAGAG,QAAS,IAGTC,GAAI,CACFC,MAAO,sBAITC,WAAW,EAGXC,IAAK,CACHC,QAAS,GAAGR"}

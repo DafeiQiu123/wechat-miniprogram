@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),o={data:()=>({}),onLoad(){console.log("Step3页面加载")},methods:{goBack(){e.index.navigateBack()},goNext(){e.index.navigateTo({url:"/pages/survey/step4"})}}};const t=e._export_sfc(o,[["render",function(o,t,a,n,c,r){return{a:e.o(((...e)=>r.goBack&&r.goBack(...e))),b:e.o(((...e)=>r.goNext&&r.goNext(...e)))}}]]);wx.createPage(t);
